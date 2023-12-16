@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #define WIFI_SSID "HUAWEI-WDM9FH_HiLink"
 #define WIFI_PASS "qwerty1234"
-#define BOT_TOKEN "6594448595:AAGczESMiHedDyvNYKIsxAIoB3Cfv6NZeJk"
+#define BOT_TOKEN ""
 #include <FastBot.h>
 FastBot bot(BOT_TOKEN);
 void setup() {
